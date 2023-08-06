@@ -1384,7 +1384,8 @@ body::-webkit-scrollbar-thumb {
 .elisc_tm_testimonials {
   width: 100%;
   float: left;
-  background-color: #fff5f6;
+  background-color: #ffff;
+  border-top: 1px solid gainsboro;
   padding: 100px 150px 105px 100px;
 }
 .elisc_tm_testimonials .testimonials_list {
